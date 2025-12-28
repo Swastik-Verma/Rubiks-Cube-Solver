@@ -84,5 +84,3 @@ The project includes multiple solvers based on **graph traversal and heuristic s
 - **Compiler:** g++
 
 ---
-
-## 📁 Project Structure
