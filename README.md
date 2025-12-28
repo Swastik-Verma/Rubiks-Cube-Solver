@@ -81,6 +81,5 @@ The project includes multiple solvers based on **graph traversal and heuristic s
   - Bit manipulation
   - Hashing (`unordered_map`, `unordered_set`)
   - Memory optimization
-- **Compiler:** g++
-
+    
 ---
